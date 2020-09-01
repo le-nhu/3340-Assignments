@@ -1,2 +1,2 @@
-# 3390 Assignments
+# 3340 Assignments
  Computer architect; MIPS
